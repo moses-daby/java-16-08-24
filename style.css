@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    background:linear-gradient( rgb(157, 155, 155),rgb(70, 182, 227),black);
+    color: rgb(3, 52, 249);
+    border-radius: 40px 0px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+
